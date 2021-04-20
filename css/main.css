@@ -1,0 +1,51 @@
+/* Inserta tu codigo aqui */
+
+nav img {
+    max-width: 100px;
+}
+
+#banner {
+    background-image: url(../img/semilla.jpg);
+    min-height: 400px;
+}
+
+.border-white {
+    border: solid white 1px;
+}
+
+#metodologia .col-sm:nth-child(1) {
+    background-image: url(../img/metodo.JPG);
+}
+
+#metodologia .col-sm:nth-child(2) {
+    background-image: url(../img/fondo.jpg);
+}
+
+#equipos img.miembro {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+    display: block;
+}
+
+#equipos .row .row img {
+    max-width: 2em;
+    height: auto;
+}
+
+#blog p {
+    line-height: 1em;
+}
+
+#footer * {
+    line-height: 1em;
+}
+
+.pb-0 {
+    padding-bottom: 0 !important;
+}
+
+.pt-0 {
+    padding-top: 0 !important;
+}
